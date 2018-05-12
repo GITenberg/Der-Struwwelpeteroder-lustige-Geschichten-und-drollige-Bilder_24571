@@ -1,0 +1,41 @@
+_repo: Der-Struwwelpeteroder-lustige-Geschichten-und-drollige-Bilder_24571
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hoffmann, Heinrich
+    aliases:
+    - Hoffman, Heinrich
+    - Hoffmann-Donner, Heinrich
+    birthdate: 1809
+    deathdate: 1894
+    gutenberg_agent_id: '4233'
+    url: http://www.gutenberg.org/2009/agents/4233
+    wikipedia: http://en.wikipedia.org/wiki/Heinrich_Hoffmann_%28author%29
+description: ''
+gutenberg_bookshelf:
+- DE Kinderbuch
+- Children's Picture Books
+gutenberg_issued: '2008-02-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24571'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s poetry, German'
+- !lcc 'PZ'
+- !lcsh 'Stories in rhyme'
+- !lcsh 'Picture books for children'
+- !lcc 'PT'
+- !lcsh 'Children''s stories, German'
+- !lcsh 'Behavior -- Fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+title: 'Der Struwwelpeter
+
+  oder lustige Geschichten und drollige Bilder'
+url: http://www.gutenberg.org/ebooks/24571
